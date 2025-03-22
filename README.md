@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://ranjanverma.pages.dev/">
-    <img src="https://ranjanverma.pages.dev/logo.png" alt="Portfolio Logo" width="120">
+    <img src="[https://ranjanverma.pages.dev/images/Rkwbg.png]" alt="Portfolio Logo" width="120">
   </a>
 </p>
 
